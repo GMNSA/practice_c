@@ -1,0 +1,5 @@
+1. preprocessor directives
+3. #define
+4. #ifdef, #ifdef, #else, ...
+5. macros
+6. console -> 

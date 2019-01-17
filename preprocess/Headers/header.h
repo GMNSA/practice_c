@@ -1,0 +1,2 @@
+#define MY_SETTINGS_2
+#define MAX_ARRAY_LENGTH 128
