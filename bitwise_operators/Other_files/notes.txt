@@ -1,0 +1,6 @@
+1. Bitwise operators - &, ^, |, ~, >>, <<
+2. Type casting in c.
+3  a & b = a && b      & = &&
+   a | b = a || b      | = ||
+   a ^ b = a != b      ^ = !=
+   ~a    =   !a        ~ = !
